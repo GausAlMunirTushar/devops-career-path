@@ -15,3 +15,13 @@ git rebase HEAD~1
 git rebase -i HEAD~1
 git rebase --continue
 ```
+
+
+```
+git checkout -b "test-branch"
+git checkout main
+
+
+```
+
+
